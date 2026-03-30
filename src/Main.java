@@ -4,7 +4,7 @@ class Main {
     static void main() {
         Scanner input = new Scanner(System.in);
 
-        int choice = -402;
+        int choice = -5;
         boolean valid = false;
 
         double numberOne;
